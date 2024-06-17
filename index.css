@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sty-1 {background-color: rgb(156, 114, 114);
+    width: 350px;
+    height: 450px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding-top: 25px;
+    
+  
+}
+
+ 
+
+.sty-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+}
+
+.sty-3{
+    background-color: violet;
+    width: 105px;
+    height: 105px;
+    border-radius: 50px;
+}
